@@ -1,8 +1,6 @@
 # koa.js
 
-{% hint style="info" %}
 https://github.com/koajs/compose
-{% endhint %}
 
 ## 1.中间件测试
 
